@@ -1,7 +1,30 @@
-Hey before you download the game
+# Pixel Quest: The Lost Relic
 
-the lila.cpython-39.pyc is the main file which you can play the game
-BUT there is something wrong with it, the vs code is fine but if you play it on GitHub and Github's VS Code then it wont work.
+## Description
+An adventure-platformer game where the player embarks on a quest to find a powerful ancient relic.
 
-Just saying so if you wondering when playing the game wont work then this is your answer
-and just to warn ya so your PC will still have some spaces and not waste it for something that doesnt work!
+## How to Run
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/your-repository-name.git
+    cd your-repository-name
+    ```
+2. Set up a virtual environment (optional but recommended):
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Run the game:
+    ```bash
+    python main.py
+    ```
+
+## Controls
+- Arrow keys to move
+- Z to punch
+- UP to jump
+- DOWN to crouch
