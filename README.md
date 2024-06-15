@@ -18,6 +18,9 @@ An adventure-platformer game where the player embarks on a quest to find a power
     ```bash
     pip install -r requirements.txt
     ```
+## Requirements
+- Python(Latest Version) and not Visual Studio Code
+
 4. Run the game:
     ```bash
     python main.py
